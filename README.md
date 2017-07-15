@@ -13,7 +13,7 @@ Short description to describe project.
 
 MIT License
 
-Copyright (c) 2017 Global AI Breaking News Seattle Hackathon Team
+Copyright (c) 2017 Angel Hack Project Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
