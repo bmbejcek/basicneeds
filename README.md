@@ -9,6 +9,8 @@ Basic Needs is a tool which communicates information between user and informatio
 
 ### Demo
 
+[![video](https://img.youtube.com/vi/Rk4o2yFx9z0/0.jpg)](https://www.youtube.com/watch?v=Rk4o2yFx9z0)
+
 ### Team Members
 
 * [Brett Bejcek](https://www.linkedin.com/in/brettbejcek/)
@@ -18,7 +20,7 @@ Basic Needs is a tool which communicates information between user and informatio
 
 MIT License
 
-Copyright (c) 2017 Angel Hack Project Team
+Copyright (c) 2017 Basic Needs Project Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
