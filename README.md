@@ -8,8 +8,8 @@ Short description to describe project.
 
 * [Brett Bejcek](https://www.linkedin.com/in/brettbejcek/)
 * [Mayuree Binjolkar](https://www.linkedin.com/in/mayuree-binjolkar-974a7133/)
-* [Orysya Stus](https://www.linkedin.com/in/orysyastus/)
 * [Yana Sosnovskaya](https://www.linkedin.com/in/yasosnovskaya/)
+* [Orysya Stus](https://www.linkedin.com/in/orysyastus/)
 
 MIT License
 
