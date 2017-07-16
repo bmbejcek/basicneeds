@@ -1,4 +1,4 @@
-# Angel Hack Project
+# Basic Needs
 
 ### Description
  
@@ -26,6 +26,11 @@ Basic Needs is a tool which communicates information between user and informatio
 * [Mayuree Binjolkar](https://www.linkedin.com/in/mayuree-binjolkar-974a7133/)
 * [Yana Sosnovskaya](https://www.linkedin.com/in/yasosnovskaya/)
 * [Orysya Stus](https://www.linkedin.com/in/orysyastus/)
+
+What is it? | Why is it Useful? | Link to Item
+--- | --- | ---
+Official Site | Website |  [Official Hackathon Site](http://angelhack.com/angelhack-global-hackathon-series-seattle "Official Site")
+
 
 MIT License
 
