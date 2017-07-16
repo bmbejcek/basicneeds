@@ -2,10 +2,10 @@
 
 ### Description
  
-Our SMS-based application provides access to routing, emergency, mental health, sanitation, education, location, weather, and feedback services to vulnerable populations without WIFI dependency. Basic Needs addresses immediate needs, connects vulnerable populations to their needs, and initiates a dialog between cities and vulnerable populations for social engagement and improvement.
+Our SMS-based application provides access to routing, emergency, mental health, sanitation, education, location, weather, and feedback services to vulnerable populations without wifi dependency. Basic Needs addresses immediate needs, connects vulnerable populations to their needs, and initiates a dialog between cities and vulnerable populations for social engagement and improvement.
 
 ### Technical Details
-Basic Needs is a tool which communicates information between user and information via Twilio and an Amazon Lex chatbox. Our case study is completed on the city of Seattle. Data is extracted from HERE API calls, Seattle Public Data (ie. weather), and scraped Wifi data.
+Basic Needs is a tool which communicates information between user and information via Twilio and an Amazon Lex chatbox. Our case study is completed on the city of Seattle. Data is extracted from HERE API calls, Seattle Public Data (ie. weather), and scraped wifi data.
 
 ### Demo
 
