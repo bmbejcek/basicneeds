@@ -31,11 +31,6 @@ Basic Needs is a tool which communicates information between user and informatio
 * [Yana Sosnovskaya](https://www.linkedin.com/in/yasosnovskaya/)
 * [Orysya Stus](https://www.linkedin.com/in/orysyastus/)
 
-What is it? | Why is it Useful? | Link to Item
---- | --- | ---
-Official Site | Website |  [Official Hackathon Site](http://angelhack.com/angelhack-global-hackathon-series-seattle "Official Site")
-
-
 MIT License
 
 Copyright (c) 2017 Basic Needs Project Team
