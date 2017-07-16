@@ -11,6 +11,10 @@ Basic Needs is a tool which communicates information between user and informatio
 
 [![video](https://img.youtube.com/vi/Rk4o2yFx9z0/0.jpg)](https://www.youtube.com/watch?v=Rk4o2yFx9z0)
 
+### Competitive Overview
+<img src="images/outline.png" width="500">
+
+
 ### File Structure
 
 * aws_lambda: folder for AWS Lambda code to communicate with Lex
