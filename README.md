@@ -14,7 +14,7 @@ Basic Needs is a tool which communicates information between user and informatio
 ### File Structure
 
 * aws_lambda: folder for AWS Lambda code to communicate with Lex
-  * HomelessHelper.py: lambda_handler for controlling lambda functio
+  * HomelessHelper.py: lambda_handler for controlling lambda functions
 * here_API_calls: supporting Data
   * here API calls to Git.ipynb: iPython Notebook for basis of all data collection
   * .csv files: supporting data files
