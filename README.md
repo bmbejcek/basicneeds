@@ -11,6 +11,15 @@ Basic Needs is a tool which communicates information between user and informatio
 
 [![video](https://img.youtube.com/vi/Rk4o2yFx9z0/0.jpg)](https://www.youtube.com/watch?v=Rk4o2yFx9z0)
 
+### File Structure
+
+* aws_lambda: folder for AWS Lambda code to communicate with Lex
+  * HomelessHelper.py: lambda_handler for controlling lambda functio
+* here_API_calls: supporting Data
+  * here API calls to Git.ipynb: iPython Notebook for basis of all data collection
+  * .csv files: supporting data files
+* images: relevant pictures for this project
+
 ### Team Members
 
 * [Brett Bejcek](https://www.linkedin.com/in/brettbejcek/)
