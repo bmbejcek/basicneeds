@@ -4,6 +4,10 @@
  
 Our SMS-based application provides access to routing, emergency, mental health, sanitation, education, location, weather, and feedback services to vulnerable populations without wifi dependency. Basic Needs addresses immediate needs, connects vulnerable populations to their needs, and initiates a dialog between cities and vulnerable populations for social engagement and improvement.
 
+### Recognition
+
+* Seattle AngelHack 2017 HERE Challenge Winner 
+
 ### Demo
 
 [![video](https://img.youtube.com/vi/Rk4o2yFx9z0/0.jpg)](https://www.youtube.com/watch?v=Rk4o2yFx9z0)
@@ -13,7 +17,6 @@ Basic Needs is a tool which communicates information between user and informatio
 
 ### Competitive Overview
 <img src="images/outline.png" width="500">
-
 
 ### File Structure
 
